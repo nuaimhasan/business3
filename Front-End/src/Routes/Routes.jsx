@@ -25,7 +25,7 @@ const RentCheckout = lazy(() => import("../pages/Checkout/RentCheckout"));
 // Dashboard
 //-----------------------------------------------------------------------------------------------------
 
-import DashboardLayout from "../Layout/DashboardLAyout";
+import DashboardLayout from "../Layout/DashboardLayout";
 import PrivateRoute from "../PrivateRoute/PrivateRoute";
 
 const Dashboard = lazy(() => import("../pages/Dashboard/Dashboard/Dashboard"));
