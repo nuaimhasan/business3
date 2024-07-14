@@ -37,7 +37,7 @@ export default function Services() {
         />
         <div className="container">
           <h2 className="absolute top-1/2 -translate-y-1/2 text-3xl text-neutral font-semibold">
-            Healyou Services
+            emanager_business3 Services
           </h2>
         </div>
       </div>
